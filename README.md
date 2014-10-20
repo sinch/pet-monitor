@@ -19,7 +19,9 @@ Copy the entire libs folder into your project's root directory.
 
 ##Build the Pet's App
 
-For the pet's app, you really only need a blank screen that automatically accepts incoming phone calls. In the app I made for my dog, I made the background a picture of my face, in the hopes that he will be less confused about my voice mysteriously appearing.
+For the pet's app, you really only need a blank screen that automatically accepts incoming phone calls. I jazzed mine up a little bit:
+
+![Dog App](images/dog-app.png)
 
 In your main activity, all you need to do is start an instance of the Sinch Client, listen for incoming calls, and automatically answer incoming calls. First, start the client using the app key and secret you generated earlier:
 
@@ -67,10 +69,6 @@ Lucky you - you don't need to build an app for yourself! In the Sinch Android SD
 
 Now, run this app on your phone, and run the dog app on your tablet. The human app will prompt you for your name; you can enter anything here. To place the call, enter "dog" as the recipient name and press "call." You'll notice on your phone screen that the status of the call goes from "initiating" to "established" in 1-2 seconds without doing anything on the tablet.
 
-<image src="images/human-app.png" style="width:100%;"/>
+![Image of Human App](images/human-app.png)
 
 So, tomorrow when you leave for work, open this app on your tablet, and leave it with the volume turned up and the app open. Call throughout the day to say hi, see if your dog is barking at the neighbors, or try to talk to your parrot!
-
-Enjoy this adorable video of my confused dog trying to figure out where my voice is coming from:
-
-VIDEO
