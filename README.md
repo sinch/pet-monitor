@@ -2,7 +2,7 @@
 
 Want to check in on your pet while you're at work, but not willing to shell out the big bucks for custom hardware devices like [PetChatz](http://www.petchatz.com/) and [PetCube](https://petcube.com/)? If you have an Android tablet and phone, you can build a voice communication system to chat with your pet in no time at all!
 
-You can find the finished code for this tutorial [on our Github]().
+You can find the finished code for this tutorial [on our Github](https://github.com/sinch/pet-monitor/).
 
 ##Sinch Setup
 
