@@ -6,7 +6,7 @@ You can find the finished code for this tutorial [on our Github](https://github.
 
 ##Sinch Setup
 
-You will use the Sinch Android SDK for the voice stream in this app. First, download the SDK from [here](http://www.sinch.com/downloads). Next, [sign up for a developer account](http://www.sinch.com/dashboard/#/signup), and create an app in the developer console. In a few minutes, you will need the app key and secret that were generated for you. Then, create a new Android project (I'm using Android Studio, but Eclipse will work too). Follow these steps to add Sinch as a library:
+You will use the Sinch Android SDK for the voice stream in this app. First, download the SDK from [here](https://www.sinch.com/downloads/). Next, [sign up for a developer account](http://www.sinch.com/dashboard/#/signup), and create an app in the developer console. In a few minutes, you will need the app key and secret that were generated for you. Then, create a new Android project (I'm using Android Studio, but Eclipse will work too). Follow these steps to add Sinch as a library:
 
 **Android Studio**    
 1. Copy the two jar files into your project's libs folder    
